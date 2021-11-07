@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funnyBotTitle.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funnybot0000" x="0" y="0" width="705" height="387" pivotX="351" pivotY="193"/>
+	<SubTexture name="funnybot0001" x="0" y="387" width="705" height="387"/>
+	<SubTexture name="funnybot0002" x="0" y="387" width="705" height="387"/>
+	<SubTexture name="funnybot0003" x="0" y="774" width="705" height="387"/>
+	<SubTexture name="funnybot0004" x="0" y="774" width="705" height="387"/>
+	<SubTexture name="funnybot0005" x="0" y="1161" width="705" height="387"/>
+	<SubTexture name="funnybot0006" x="0" y="1161" width="705" height="387"/>
+	<SubTexture name="funnybot0007" x="0" y="1161" width="705" height="387"/>
+	<SubTexture name="funnybot0008" x="0" y="387" width="705" height="387"/>
+	<SubTexture name="funnybot0009" x="0" y="0" width="705" height="387"/>
+</TextureAtlas>

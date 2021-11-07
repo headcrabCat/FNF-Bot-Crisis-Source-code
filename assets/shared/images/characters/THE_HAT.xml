@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="THE_HAT.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the_hat0000" x="0" y="0" width="302" height="114" pivotX="-254.05" pivotY="68.7"/>
+	<SubTexture name="the_hat0001" x="0" y="0" width="302" height="114"/>
+</TextureAtlas>

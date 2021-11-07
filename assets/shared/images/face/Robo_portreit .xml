@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Robo_portreit.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RoboSniper Portrait Enter 10000" x="0" y="0" width="257" height="145" pivotX="231.65" pivotY="-272" frameX="0" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10001" x="0" y="145" width="257" height="145" frameX="-6" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10002" x="0" y="145" width="257" height="145" frameX="-6" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10003" x="0" y="290" width="257" height="145" frameX="-10" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10004" x="0" y="290" width="257" height="145" frameX="-10" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10005" x="0" y="435" width="257" height="145" frameX="-11" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10006" x="0" y="435" width="257" height="145" frameX="-11" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10007" x="0" y="435" width="257" height="145" frameX="-11" frameY="0" frameWidth="268" frameHeight="145"/>
+	<SubTexture name="RoboSniper Portrait Enter 10008" x="0" y="435" width="257" height="145" frameX="-11" frameY="0" frameWidth="268" frameHeight="145"/>
+</TextureAtlas>

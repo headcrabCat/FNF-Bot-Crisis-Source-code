@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sniper_portret.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sniper Portrait Enter 10000" x="0" y="0" width="189" height="97" pivotX="-23.1" pivotY="-215.75" frameX="-5" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10001" x="0" y="97" width="189" height="97" frameX="-1" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10002" x="0" y="97" width="189" height="97" frameX="-1" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10003" x="0" y="194" width="189" height="97" frameX="0" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10004" x="0" y="194" width="189" height="97" frameX="0" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10005" x="0" y="291" width="189" height="97" frameX="0" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10006" x="0" y="291" width="189" height="97" frameX="0" frameY="0" frameWidth="194" frameHeight="97"/>
+	<SubTexture name="Sniper Portrait Enter 10007" x="0" y="291" width="189" height="97" frameX="0" frameY="0" frameWidth="194" frameHeight="97"/>
+</TextureAtlas>
